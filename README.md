@@ -4,6 +4,8 @@
 
 Signature is a free, open-source e-signature app that runs entirely on your own computer. Open a PDF or Word document, drop in a signature, add the date, and download the signed PDF. That's it.
 
+![Signature app: a freelance agreement being signed, with ready-made signature styles in the sidebar](docs/screenshot.png)
+
 ## Why we built this
 
 Signing a document should be simple. Most e-signature platforms make it harder than it needs to be:
